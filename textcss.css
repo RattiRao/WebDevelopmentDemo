@@ -1,0 +1,13 @@
+h1 {
+    font-family: cursive;
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration:underline;
+    font-variant: small-caps;
+}
+
+p {
+    line-height: 2em;
+    text-align: left;
+}
